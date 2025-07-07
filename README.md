@@ -1,2 +1,2 @@
-https://pogosstuido.github.io/rsschool-cv/cv  
-https://pogosstuido.github.io/rsschool-cv/
+https://pogosstuido.github.io/ViteTestManual-cv/cv  
+https://pogosstuido.github.io/ViteTestManual-cv/
