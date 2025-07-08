@@ -1,0 +1,31 @@
+{
+  "name": "vitetestmanual",
+  "version": "1.0.0",
+  "description": "Test manual vite to gh-pages",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PogosStuido/ViteTestManual.git"
+  },
+  "author": "Pogos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PogosStuido/ViteTestManual/issues"
+  },
+  "homepage": "https://github.com/PogosStuido/ViteTestManual#readme",
+  "devDependencies": {
+    "sass": "^1.89.2",
+    "vite": "^7.0.2"
+  },
+  "dependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
